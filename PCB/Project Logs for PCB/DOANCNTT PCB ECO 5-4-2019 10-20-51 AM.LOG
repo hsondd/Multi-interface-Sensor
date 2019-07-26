@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=Schematic_Final (1) Member=P1
+Removed Member From Class: ClassName=Schematic_Final (1) Member=P5
+Removed Member From Class: ClassName=Schematic_Final (1) Member=P9
+Added Component: Designator=HD?(HED8V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=X1 Pin=HD?-1
+Added Pin To Net: NetName=X1 Pin=REL1-1
+Added Net: Name=X1
+Added Pin To Net: NetName=X2 Pin=HD?-2
+Added Pin To Net: NetName=X2 Pin=REL1-3
+Added Net: Name=X2
+Added Pin To Net: NetName=X3 Pin=HD?-3
+Added Pin To Net: NetName=X3 Pin=REL2-1
+Added Net: Name=X3
+Added Pin To Net: NetName=X4 Pin=HD?-4
+Added Pin To Net: NetName=X4 Pin=REL2-3
+Added Net: Name=X4
+Added Pin To Net: NetName=X5 Pin=HD?-5
+Added Pin To Net: NetName=X5 Pin=REL3-1
+Added Net: Name=X5
+Added Pin To Net: NetName=X6 Pin=HD?-6
+Added Pin To Net: NetName=X6 Pin=REL3-3
+Added Net: Name=X6
+Added Pin To Net: NetName=X7 Pin=HD?-7
+Added Pin To Net: NetName=X7 Pin=REL4-1
+Added Net: Name=X7
+Added Pin To Net: NetName=X8 Pin=HD?-8
+Added Net: Name=X8
+Added Member To Class: ClassName=Schematic_Final (1) Member=Component HD? Header 8

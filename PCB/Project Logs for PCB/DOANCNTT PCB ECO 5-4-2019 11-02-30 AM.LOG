@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=X1 Pin=CON1-1
+Removed Pin From Net: NetName=X2 Pin=CON1-2
+Removed Pin From Net: NetName=X3 Pin=CON1-3
+Removed Pin From Net: NetName=X4 Pin=CON1-4
+Removed Pin From Net: NetName=X5 Pin=CON1-5
+Removed Pin From Net: NetName=X6 Pin=CON1-6
+Removed Pin From Net: NetName=X7 Pin=CON1-7
+Removed Pin From Net: NetName=X8 Pin=CON1-8
+Added Pin To Net: NetName=X8 Pin=CON1-1
+Added Pin To Net: NetName=X7 Pin=CON1-2
+Added Pin To Net: NetName=X6 Pin=CON1-3
+Added Pin To Net: NetName=X5 Pin=CON1-4
+Added Pin To Net: NetName=X4 Pin=CON1-5
+Added Pin To Net: NetName=X3 Pin=CON1-6
+Added Pin To Net: NetName=X2 Pin=CON1-7
+Added Pin To Net: NetName=X1 Pin=CON1-8

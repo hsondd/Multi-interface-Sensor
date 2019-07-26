@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP SMD ELEC New Footprint=CAP RADIAL 6.3x11
+Change Component Footprint: Designator=C4 Old Footprint=CAP SMD ELEC New Footprint=CAP RADIAL 6.3x11
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=JACK?(JACK DC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12VDC Pin=JACK?-1
+Added Pin To Net: NetName=GND Pin=JACK?-2
+Added Member To Class: ClassName=Schematic_Final (1) Member=Component JACK? JACK DC
+Added Room: Name=Schematic_Final (1)

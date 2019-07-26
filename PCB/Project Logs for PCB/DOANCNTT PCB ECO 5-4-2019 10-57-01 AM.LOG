@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=X1 Pin=HD?-1
+Removed Pin From Net: NetName=X2 Pin=HD?-2
+Removed Pin From Net: NetName=X3 Pin=HD?-3
+Removed Pin From Net: NetName=X4 Pin=HD?-4
+Removed Pin From Net: NetName=X5 Pin=HD?-5
+Removed Pin From Net: NetName=X6 Pin=HD?-6
+Removed Pin From Net: NetName=X7 Pin=HD?-7
+Removed Pin From Net: NetName=X8 Pin=HD?-8
+Removed Member From Class: ClassName=Schematic_Final (1) Member=HD?
+Change Component Designator: OldDesignator=JACK? NewDesignator=JACK1
+Added Component: Designator=CON1(Con 8 EDG 5.08)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=X1 Pin=CON1-1
+Added Pin To Net: NetName=X2 Pin=CON1-2
+Added Pin To Net: NetName=X3 Pin=CON1-3
+Added Pin To Net: NetName=X4 Pin=CON1-4
+Added Pin To Net: NetName=X5 Pin=CON1-5
+Added Pin To Net: NetName=X6 Pin=CON1-6
+Added Pin To Net: NetName=X7 Pin=CON1-7
+Added Pin To Net: NetName=X8 Pin=CON1-8
+Added Member To Class: ClassName=Schematic_Final (1) Member=Component CON1 CON 8 EDG 5.08_MH
